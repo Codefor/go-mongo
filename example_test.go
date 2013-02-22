@@ -15,7 +15,7 @@
 package mongo_test
 
 import (
-	"github.com/garyburd/go-mongo/mongo"
+	mongo "github.com/Codefor/go-mongo"
 	"log"
 )
 
